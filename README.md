@@ -56,7 +56,7 @@ And if we move further more, consider the 3d situation, suppose the angle betwee
 ####level 1: study the motion with regard to eccentricity and the coefficient alpah
 First, the 2d condition
 ![img](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-11-22%20下午8.49.37.png)
-![img](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-11-22%20下午8.50.36.png)
+![img](https://github.com/LuxAsteria/test3/blob/ad4668a773d85ed0237b47e66fdf76220462936c/屏幕快照%202016-11-22%20下午8.50.36.png)
 
 
 [For code please click here](https://github.com/LuxAsteria/exercise-10/blob/master/code%201)
